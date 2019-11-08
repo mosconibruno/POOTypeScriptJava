@@ -1,0 +1,5 @@
+pare este exercicio foram criadas/alteradas as seguintes classes:
+
+-BookNotFound (Classe exception)
+-Estante (try/catch)
+-Teste (o teste do codigo)
